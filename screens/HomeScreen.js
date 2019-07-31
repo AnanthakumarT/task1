@@ -20,7 +20,7 @@ export default class HomeScreen extends React.Component{
       tableHead: ['Name', 'Age', 'p.no', 'Gender','Address','pincode','state','nationality'],
       tableData: [
         ['anand', '22', '9080948631', 'Male','xxx,yyy','23454','tamilnadu','indian'],
-        ['anand', '22', '9080948631', 'Male','xxx,yyy','23454','tamilnadu','indian']
+        ['anand', '22', '9080948631', 'Male','xxx,yyy','23454','tamilnadu','American']
 
        
       ]
